@@ -1,4 +1,4 @@
-# wikivosaur0
+# wikivosaur
 
 > A Vue.js project
 
